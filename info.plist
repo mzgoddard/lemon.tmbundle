@@ -7,7 +7,7 @@
 	<key>contactName</key>
 	<string>Z Goddard</string>
 	<key>description</key>
-	<string>Grammar for the Lemon parser generator.
+	<string>Bundle for the Lemon parser generator.
 
 http://www.hwaci.com/sw/lemon/
 </string>
