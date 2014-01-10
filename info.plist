@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>zmtbqqneq@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Z Goddard</string>
+	<key>description</key>
+	<string>Grammar for the Lemon parser generator.
+
+http://www.hwaci.com/sw/lemon/
+</string>
+	<key>name</key>
+	<string>Lemon</string>
+	<key>uuid</key>
+	<string>C0D24BF6-B3E1-42B9-BD38-44EBF4FF6313</string>
+</dict>
+</plist>
